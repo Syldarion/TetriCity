@@ -63,3 +63,4 @@ crashlytics-build.properties
 # Assets
 /[Aa]ssets/ConsolePro*
 /[Aa]ssets/Plugins/Sirenix*
+/[Aa]ssets/Plugins/Demigiant*
